@@ -1,6 +1,6 @@
 # Blog preview card
 
-![Design preview for the Blog preview card coding challenge](./design/Design.jpg)
+![Design preview for the Blog preview card coding challenge](./design/Design.JPG)
 
 
 ## Built with
