@@ -12,4 +12,4 @@
 ## Links
 
 - Solution URL: [Check solution on GitHub](https://github.com/hoda257/Blog-Preview-Card.git)
-- Live Site URL: [Check live site](https://your-live-site-url.com)
+- Live Site URL: [Check live site](https://hoda257.github.io/Blog-Preview-Card/)
