@@ -60,7 +60,7 @@ body {
 }
 
 .card-container .text h1 {
-    font-size: 24px;
+    font-size: clamp(20px, 3vw, 24px);
     font-weight: 800;
     margin: var(--through-margin) 0;
 }
@@ -73,16 +73,7 @@ body {
 .card-container .text p:last-of-type {
     color: var(--paragraph-color);
     line-height: 1.5;
-}
-
-@media (max-width:767px) {
-    .card-container .text h1 {
-        font-size: 20px;
-    }
-
-    .card-container .text p:last-of-type {
-        font-size: 14px;
-    }
+    font-size: clamp(14px, 2vw, 16px);
 }
 
 .card-container .author {
